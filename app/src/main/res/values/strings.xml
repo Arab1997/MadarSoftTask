@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MadarSoftTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">save user</string>
+    <string name="age">age</string>
+    <string name="name">Username</string>
+    <string name="action_delete">Delete All</string>
+    <string name="action_search">Search</string>
+
+    <string name="deleteAll">Are You Want To Delete All Favourite </string>
+    <string name="deleteArticle">Successfully Deleted Article</string>
+    <string name="undo">Undo</string>
+    <string name="yes">Yes , Delete </string>
+    <string name="no"> NO </string>
+
+
+</resources>
